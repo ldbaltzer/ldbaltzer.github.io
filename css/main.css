@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #f6e8e5;
+    font-family: 'futura-pt', 'Helvetica', 'Arial', 'sans-serif';
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -12,9 +13,6 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
-.text {
-    font-family: 'futura-pt', 'Helvetica', 'Arial', 'sans-serif';
 }
 a {
     text-decoration: none;
