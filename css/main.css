@@ -5,6 +5,7 @@ body {
     font-family: 'Kannada MN', 'Helvetica','Arial';
 }
 .btn {
+  text-align: center;
   border-style: solid;
   padding: 10px 40px;
   text-decoration: none; 
@@ -38,6 +39,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    text-align: center;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
