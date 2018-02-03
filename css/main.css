@@ -3,6 +3,13 @@ body {
     width: 70%;
     background-color: #f6e8e5;
 }
+.btn {
+  color: #363030;
+  background: #f6e8e9;
+  padding: 10px 40px;
+  text-decoration: none; 
+  transition: background .5s; 
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
