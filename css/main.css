@@ -13,6 +13,9 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+.div {
+    font-family: 'futura-pt', 'Helvetica', 'Arial', 'sans-serif';
+}
 a {
     text-decoration: none;
     color: #999;
