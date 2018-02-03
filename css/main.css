@@ -2,11 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #f6e8e5;
-    font-family: 'Didot', 'Helvetica','Arial';
+    font-family: 'Kannada MN', 'Helvetica','Arial';
 }
 .btn {
-  color: #363030;
-  background: #f6e8e9;
+  color: #c1aba6;
+  background: #efd2cb;
   padding: 10px 40px;
   text-decoration: none; 
   transition: background .5s; 
