@@ -5,8 +5,7 @@ body {
     font-family: 'Kannada MN', 'Helvetica','Arial';
 }
 .btn {
-  color: #c1aba6;
-  background: #efd2cb;
+  border-style: solid;
   padding: 10px 40px;
   text-decoration: none; 
   transition: background .5s; 
@@ -20,6 +19,12 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}
+.btn:hover {
+  border-style: none;
+  background: #efd2cb;
+  cursor: pointer; 
+  transition: background .5s;  
 }
 a {
     text-decoration: none;
