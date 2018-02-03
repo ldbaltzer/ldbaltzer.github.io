@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #f6e8e5;
+    font-family: 'Didot', 'Helvetica','Arial';
 }
 .btn {
   color: #363030;
