@@ -8,6 +8,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    text-align: center;
 }
 nav ul li {
     background: #bbd3f7;
@@ -15,9 +16,6 @@ nav ul li {
     display: inline-block;
     text-decoration: none;
     padding: 20px 40px;
-}
-footer ul li {
-    text-align: center;
 }
 a {
     color: black;
