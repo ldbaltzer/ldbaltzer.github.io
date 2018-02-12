@@ -10,10 +10,8 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li {
-    text-align: center;
     background: #bbd3f7;
     border: 1px solid #7085a5;
-    border-radius: 40px;
     display: inline-block;
     text-decoration: none;
 }
